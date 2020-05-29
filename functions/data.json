@@ -1,0 +1,7003 @@
+{
+  "1": {
+    "index": 1,
+    "francais": "avec",
+    "portugais": "com",
+    "quiz1" : 0,
+    "quiz2" : 0
+   
+  },
+  "2": {
+    "index": 2,
+    "francais": "bien",
+    "portugais": "bem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "3": {
+    "index": 3,
+    "francais": "mais",
+    "portugais": "mas",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "4": {
+    "index": 4,
+    "francais": "plus",
+    "portugais": "mais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "5": {
+    "index": 5,
+    "francais": "ici",
+    "portugais": "aqui/cá",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "6": {
+    "index": 6,
+    "francais": "d'ici",
+    "portugais": "daqui",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "7": {
+    "index": 7,
+    "francais": "beaucoup",
+    "portugais": "muito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "8": {
+    "index": 8,
+    "francais": "aller",
+    "portugais": "ir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "9": {
+    "index": 9,
+    "francais": "être",
+    "portugais": "ser",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "10": {
+    "index": 10,
+    "francais": "faire",
+    "portugais": "fazer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "11": {
+    "index": 11,
+    "francais": "avoir",
+    "portugais": "ter",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "12": {
+    "index": 12,
+    "francais": "déjà",
+    "portugais": "já",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "13": {
+    "index": 13,
+    "francais": "tout",
+    "portugais": "tudo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "14": {
+    "index": 14,
+    "francais": "seulement",
+    "portugais": "só",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "15": {
+    "index": 15,
+    "francais": "maintenant",
+    "portugais": "agora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "16": {
+    "index": 16,
+    "francais": "je vais à",
+    "portugais": "vou para",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "17": {
+    "index": 17,
+    "francais": "savoir",
+    "portugais": "saber",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "18": {
+    "index": 18,
+    "francais": "quand",
+    "portugais": "quando",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "19": {
+    "index": 19,
+    "francais": "y avoir",
+    "portugais": "haver",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "20": {
+    "index": 20,
+    "francais": "pourquoi",
+    "portugais": "porque",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "21": {
+    "index": 21,
+    "francais": "où",
+    "portugais": "onde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "22": {
+    "index": 22,
+    "francais": "rien",
+    "portugais": "nada",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "23": {
+    "index": 23,
+    "francais": "vouloir",
+    "portugais": "quer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "24": {
+    "index": 24,
+    "francais": "chose",
+    "portugais": "coisa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "25": {
+    "index": 25,
+    "francais": "dire",
+    "portugais": "dizer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "26": {
+    "index": 26,
+    "francais": "pouvoir",
+    "portugais": "poder",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "27": {
+    "index": 27,
+    "francais": "bon/-onne",
+    "portugais": "bom, boa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "28": {
+    "index": 28,
+    "francais": "bonjour",
+    "portugais": "bom dia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "29": {
+    "index": 29,
+    "francais": "bonjour (après-midi)",
+    "portugais": "boa tarde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "30": {
+    "index": 30,
+    "francais": "bonne nuit",
+    "portugais": "boa noite",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "31": {
+    "index": 31,
+    "francais": "vraiment",
+    "portugais": "mesmo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "32": {
+    "index": 32,
+    "francais": "tout",
+    "portugais": "todos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "33": {
+    "index": 33,
+    "francais": "voir",
+    "portugais": "ver",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "34": {
+    "index": 34,
+    "francais": "jamais",
+    "portugais": "nunca",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "35": {
+    "index": 35,
+    "francais": "ainsi",
+    "portugais": "assim",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "36": {
+    "index": 36,
+    "francais": "la maison",
+    "portugais": "a casa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "37": {
+    "index": 37,
+    "francais": "jusqu'à",
+    "portugais": "até",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "38": {
+    "index": 38,
+    "francais": "le temps",
+    "portugais": "o tempo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "39": {
+    "index": 39,
+    "francais": "trouver",
+    "portugais": "achar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "40": {
+    "index": 40,
+    "francais": "faveur",
+    "portugais": "favor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "41": {
+    "index": 41,
+    "francais": "merci",
+    "portugais": "obrigado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "42": {
+    "index": 42,
+    "francais": "aussi",
+    "portugais": "também",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "43": {
+    "index": 43,
+    "francais": "dieu",
+    "portugais": "deus",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "44": {
+    "index": 44,
+    "francais": "quoi",
+    "portugais": "quê",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "45": {
+    "index": 45,
+    "francais": "encore",
+    "portugais": "ainda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "46": {
+    "index": 46,
+    "francais": "fois",
+    "portugais": "vez",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "47": {
+    "index": 47,
+    "francais": "chaque fois",
+    "portugais": "cada vez",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "48": {
+    "index": 48,
+    "francais": "père",
+    "portugais": "pai",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "49": {
+    "index": 49,
+    "francais": "mère",
+    "portugais": "mãe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "50": {
+    "index": 50,
+    "francais": "tellement, si",
+    "portugais": "tão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "51": {
+    "index": 51,
+    "francais": "aussi que",
+    "portugais": "tão ... como",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "52": {
+    "index": 52,
+    "francais": "parler",
+    "portugais": "falar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "53": {
+    "index": 53,
+    "francais": "meilleur",
+    "portugais": "melhor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "54": {
+    "index": 54,
+    "francais": "sur",
+    "portugais": "sobre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "55": {
+    "index": 55,
+    "francais": "certain",
+    "portugais": "certo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "56": {
+    "index": 56,
+    "francais": "toujours",
+    "portugais": "sempre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "57": {
+    "index": 57,
+    "francais": "après",
+    "portugais": "depois",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "58": {
+    "index": 58,
+    "francais": "la vie",
+    "portugais": "a vida",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "59": {
+    "index": 59,
+    "francais": "non plus",
+    "portugais": "nem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "60": {
+    "index": 60,
+    "francais": "monsieur/madame",
+    "portugais": "senhor/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "61": {
+    "index": 61,
+    "francais": "années",
+    "portugais": "anos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "62": {
+    "index": 62,
+    "francais": "salut",
+    "portugais": "olá",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "63": {
+    "index": 63,
+    "francais": "peut-être",
+    "portugais": "talvez",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "64": {
+    "index": 64,
+    "francais": "homme",
+    "portugais": "homem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "65": {
+    "index": 65,
+    "francais": "femme",
+    "portugais": "mulher",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "66": {
+    "index": 66,
+    "francais": "sans",
+    "portugais": "sem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "67": {
+    "index": 67,
+    "francais": "n'importe qui",
+    "portugais": "alguém",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "68": {
+    "index": 68,
+    "francais": "quelque chose",
+    "portugais": "algo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "69": {
+    "index": 69,
+    "francais": "quelque chose",
+    "portugais": "alguma coisa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "70": {
+    "index": 70,
+    "francais": "bien-sûr",
+    "portugais": "claro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "71": {
+    "index": 71,
+    "francais": "rester",
+    "portugais": "ficar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "72": {
+    "index": 72,
+    "francais": "une personne",
+    "portugais": "uma pessoa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "73": {
+    "index": 73,
+    "francais": "la vérité",
+    "portugais": "a verdade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "74": {
+    "index": 74,
+    "francais": "il parait que",
+    "portugais": "parece que",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "75": {
+    "index": 75,
+    "francais": "grand",
+    "portugais": "grande",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "76": {
+    "index": 76,
+    "francais": "avant",
+    "portugais": "antes",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "77": {
+    "index": 77,
+    "francais": "de l'argent",
+    "portugais": "dinheiro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "78": {
+    "index": 78,
+    "francais": "personne",
+    "portugais": "ninguém",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "79": {
+    "index": 79,
+    "francais": "aucune personne, quiconque",
+    "portugais": "nenhuma pessoa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "80": {
+    "index": 80,
+    "francais": "a peine",
+    "portugais": "apenas",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "81": {
+    "index": 81,
+    "francais": "un peu de",
+    "portugais": "um pouco de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "82": {
+    "index": 82,
+    "francais": "precis/-ise",
+    "portugais": "preciso/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "83": {
+    "index": 83,
+    "francais": "avec moi",
+    "portugais": "comigo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "84": {
+    "index": 84,
+    "francais": "avec toi",
+    "portugais": "contigo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "85": {
+    "index": 85,
+    "francais": "avec lui",
+    "portugais": "consigo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "86": {
+    "index": 86,
+    "francais": "avec nous",
+    "portugais": "connosco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "87": {
+    "index": 87,
+    "francais": "avec vous",
+    "portugais": "convosco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "88": {
+    "index": 88,
+    "francais": "autre chose",
+    "portugais": "outra coisa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "89": {
+    "index": 89,
+    "francais": "travailler",
+    "portugais": "trabalhar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "90": {
+    "index": 90,
+    "francais": "merde",
+    "portugais": "merda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "91": {
+    "index": 91,
+    "francais": "type, genre, sorte",
+    "portugais": "tipo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "92": {
+    "index": 92,
+    "francais": "dehors, sauf, hors",
+    "portugais": "fora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "93": {
+    "index": 93,
+    "francais": "hors du commun",
+    "portugais": "fora do comum",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "94": {
+    "index": 94,
+    "francais": "attente",
+    "portugais": "espera",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "95": {
+    "index": 95,
+    "francais": "espérer",
+    "portugais": "esperar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "96": {
+    "index": 96,
+    "francais": "n'importe quel",
+    "portugais": "qualquer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "97": {
+    "index": 97,
+    "francais": "aujourd'hui",
+    "portugais": "hoje",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "98": {
+    "index": 98,
+    "francais": "hier",
+    "portugais": "ontem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "99": {
+    "index": 99,
+    "francais": "demain",
+    "portugais": "amanhã",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "100": {
+    "index": 100,
+    "francais": "quel/-s, quelle/-es",
+    "portugais": "qual/-ais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "101": {
+    "index": 101,
+    "francais": "chacun/-une",
+    "portugais": "cada qual",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "102": {
+    "index": 102,
+    "francais": "regarder",
+    "portugais": "olhar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "103": {
+    "index": 103,
+    "francais": "devoir",
+    "portugais": "dever",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "104": {
+    "index": 104,
+    "francais": "fils",
+    "portugais": "filho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "105": {
+    "index": 105,
+    "francais": "monde",
+    "portugais": "mundo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "106": {
+    "index": 106,
+    "francais": "nom",
+    "portugais": "nome",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "107": {
+    "index": 107,
+    "francais": "donner",
+    "portugais": "dar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "108": {
+    "index": 108,
+    "francais": "qui que ce soit",
+    "portugais": "seja quem for",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "109": {
+    "index": 109,
+    "francais": "qu'il en soit ainsi",
+    "portugais": "que seja assim",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "110": {
+    "index": 110,
+    "francais": "car, alors",
+    "portugais": "pois",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "111": {
+    "index": 111,
+    "francais": "dans un",
+    "portugais": "num",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "112": {
+    "index": 112,
+    "francais": "combien",
+    "portugais": "quanto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "113": {
+    "index": 113,
+    "francais": "sortir",
+    "portugais": "sair",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "114": {
+    "index": 114,
+    "francais": "venir",
+    "portugais": "vir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "115": {
+    "index": 115,
+    "francais": "tour, retour",
+    "portugais": "volta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "116": {
+    "index": 116,
+    "francais": "tourner",
+    "portugais": "voltar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "117": {
+    "index": 117,
+    "francais": "ami/-mie",
+    "portugais": "amigo/-ga",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "118": {
+    "index": 118,
+    "francais": "nouveau/-velle",
+    "portugais": "novo/-va",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "119": {
+    "index": 119,
+    "francais": "bien que",
+    "portugais": "embora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "120": {
+    "index": 120,
+    "francais": "lieu, endroit",
+    "portugais": "lugar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "121": {
+    "index": 121,
+    "francais": "sérieux/-ieuse",
+    "portugais": "sério/-ria",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "122": {
+    "index": 122,
+    "francais": "mal",
+    "portugais": "mal",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "123": {
+    "index": 123,
+    "francais": "plaire/déplaire",
+    "portugais": "cair bem/mal",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "124": {
+    "index": 124,
+    "francais": "désolé/-ée, pardon",
+    "portugais": "desculpa, perdão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "125": {
+    "index": 125,
+    "francais": "une voiture",
+    "portugais": "um carro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "126": {
+    "index": 126,
+    "francais": "un problème",
+    "portugais": "um problema",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "127": {
+    "index": 127,
+    "francais": "moins, sauf",
+    "portugais": "menos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "128": {
+    "index": 128,
+    "francais": "passer, dépasser",
+    "portugais": "passar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "129": {
+    "index": 129,
+    "francais": "se produire",
+    "portugais": "acontecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "130": {
+    "index": 130,
+    "francais": "premièrement",
+    "portugais": "primeiro/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "131": {
+    "index": 131,
+    "francais": "l'amour",
+    "portugais": "o amor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "132": {
+    "index": 132,
+    "francais": "penser",
+    "portugais": "pensar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "133": {
+    "index": 133,
+    "francais": "un visage, une mine",
+    "portugais": "uma cara",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "134": {
+    "index": 134,
+    "francais": "le côté",
+    "portugais": "o lado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "135": {
+    "index": 135,
+    "francais": "une partie",
+    "portugais": "uma parte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "136": {
+    "index": 136,
+    "francais": "marcher",
+    "portugais": "andar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "137": {
+    "index": 137,
+    "francais": "l'heure",
+    "portugais": "a hora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "138": {
+    "index": 138,
+    "francais": "les gens",
+    "portugais": "a gente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "139": {
+    "index": 139,
+    "francais": "tenter, essayer",
+    "portugais": "tentar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "140": {
+    "index": 140,
+    "francais": "aimer, apprécier",
+    "portugais": "gostar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "141": {
+    "index": 141,
+    "francais": "aprés-midi, tard",
+    "portugais": "tarde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "142": {
+    "index": 142,
+    "francais": "entre, parmi",
+    "portugais": "entre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "143": {
+    "index": 143,
+    "francais": "derrière",
+    "portugais": "atrás",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "144": {
+    "index": 144,
+    "francais": "la tête",
+    "portugais": "a cabeça",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "145": {
+    "index": 145,
+    "francais": "pour de bon",
+    "portugais": "pra valer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "146": {
+    "index": 146,
+    "francais": "c'est pour moi",
+    "portugais": "sobra pra mim",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "147": {
+    "index": 147,
+    "francais": "le front, le devant",
+    "portugais": "a frente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "148": {
+    "index": 148,
+    "francais": "une ville",
+    "portugais": "uma cidade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "149": {
+    "index": 149,
+    "francais": "sur, au-dessus de",
+    "portugais": "em, por cima de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "150": {
+    "index": 150,
+    "francais": "en bas de",
+    "portugais": "em baixo de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "151": {
+    "index": 151,
+    "francais": "sous",
+    "portugais": "sob",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "152": {
+    "index": 152,
+    "francais": "un moment",
+    "portugais": "um momento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "153": {
+    "index": 153,
+    "francais": "raison/-s (f)",
+    "portugais": "razão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "154": {
+    "index": 154,
+    "francais": "une famille",
+    "portugais": "uma família",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "155": {
+    "index": 155,
+    "francais": "depuis, a condition que",
+    "portugais": "desde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "156": {
+    "index": 156,
+    "francais": "sentir, ressentir",
+    "portugais": "sentir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "157": {
+    "index": 157,
+    "francais": "la police",
+    "portugais": "a polícia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "158": {
+    "index": 158,
+    "francais": "(avoir) peur",
+    "portugais": "(ter) medo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "159": {
+    "index": 159,
+    "francais": "tant, autant",
+    "portugais": "tanto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "160": {
+    "index": 160,
+    "francais": "prêt, ca y est",
+    "portugais": "pronto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "161": {
+    "index": 161,
+    "francais": "une forme",
+    "portugais": "uma forma",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "162": {
+    "index": 162,
+    "francais": "arriver, atteindre",
+    "portugais": "chegar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "163": {
+    "index": 163,
+    "francais": "presque",
+    "portugais": "quase",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "164": {
+    "index": 164,
+    "francais": "l'histoire",
+    "portugais": "a história",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "165": {
+    "index": 165,
+    "francais": "laisser, arrêter",
+    "portugais": "deixar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "166": {
+    "index": 166,
+    "francais": "la porte",
+    "portugais": "a porta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "167": {
+    "index": 167,
+    "francais": "porter",
+    "portugais": "portar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "168": {
+    "index": 168,
+    "francais": "faire attention",
+    "portugais": "ter cuidado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "169": {
+    "index": 169,
+    "francais": "attention!",
+    "portugais": "atenção!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "170": {
+    "index": 170,
+    "francais": "réellement, vraiment",
+    "portugais": "realmente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "171": {
+    "index": 171,
+    "francais": "une idée",
+    "portugais": "uma ideia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "172": {
+    "index": 172,
+    "francais": "soeur",
+    "portugais": "irmã",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "173": {
+    "index": 173,
+    "francais": "frêre",
+    "portugais": "irmão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "174": {
+    "index": 174,
+    "francais": "mourir",
+    "portugais": "morrer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "175": {
+    "index": 175,
+    "francais": "mort/-orte",
+    "portugais": "morto/-ta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "176": {
+    "index": 176,
+    "francais": "au revoir!",
+    "portugais": "adeus!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "177": {
+    "index": 177,
+    "francais": "chanceux, heureux, content",
+    "portugais": "feliz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "178": {
+    "index": 178,
+    "francais": "Joyeux anniversaire!",
+    "portugais": "feliz anniversário!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "179": {
+    "index": 179,
+    "francais": "une minute",
+    "portugais": "um minuto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "180": {
+    "index": 180,
+    "francais": "aider",
+    "portugais": "ajudar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "181": {
+    "index": 181,
+    "francais": "contre",
+    "portugais": "contra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "182": {
+    "index": 182,
+    "francais": "bonne chance",
+    "portugais": "boa sorte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "183": {
+    "index": 183,
+    "francais": "rencontrer",
+    "portugais": "encontrar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "184": {
+    "index": 184,
+    "francais": "le chemin",
+    "portugais": "o caminho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "185": {
+    "index": 185,
+    "francais": "garcon",
+    "portugais": "rapaz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "186": {
+    "index": 186,
+    "francais": "fille",
+    "portugais": "rapariga",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "187": {
+    "index": 187,
+    "francais": "entendre",
+    "portugais": "ouvir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "188": {
+    "index": 188,
+    "francais": "pendant que",
+    "portugais": "enquanto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "189": {
+    "index": 189,
+    "francais": "la manière",
+    "portugais": "a maneira",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "190": {
+    "index": 190,
+    "francais": "la semaine",
+    "portugais": "a semana",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "191": {
+    "index": 191,
+    "francais": "l'eau",
+    "portugais": "a água",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "192": {
+    "index": 192,
+    "francais": "tuer",
+    "portugais": "matar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "193": {
+    "index": 193,
+    "francais": "pendant",
+    "portugais": "durante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "194": {
+    "index": 194,
+    "francais": "une chambre",
+    "portugais": "um quarto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "195": {
+    "index": 195,
+    "francais": "l'addition",
+    "portugais": "a conta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "196": {
+    "index": 196,
+    "francais": "(à) terre",
+    "portugais": "(em) terra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "197": {
+    "index": 197,
+    "francais": "à tout à l'heure",
+    "portugais": "até logo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "198": {
+    "index": 198,
+    "francais": "dès que",
+    "portugais": "logo que",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "199": {
+    "index": 199,
+    "francais": "une guerre",
+    "portugais": "uma guerra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "200": {
+    "index": 200,
+    "francais": "rapide",
+    "portugais": "rápido/-da",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "201": {
+    "index": 201,
+    "francais": "à emporter",
+    "portugais": "para levar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "202": {
+    "index": 202,
+    "francais": "super",
+    "portugais": "óptimo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "203": {
+    "index": 203,
+    "francais": "la main",
+    "portugais": "a mão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "204": {
+    "index": 204,
+    "francais": "un jeu",
+    "portugais": "um jogo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "205": {
+    "index": 205,
+    "francais": "le matin",
+    "portugais": "a manhã",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "206": {
+    "index": 206,
+    "francais": "une arme",
+    "portugais": "uma arma",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "207": {
+    "index": 207,
+    "francais": "près",
+    "portugais": "perto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "208": {
+    "index": 208,
+    "francais": "important/-ante",
+    "portugais": "importante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "209": {
+    "index": 209,
+    "francais": "personnel(le)/-s",
+    "portugais": "pessoal/-oais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "210": {
+    "index": 210,
+    "francais": "calme",
+    "portugais": "calmo/-ma",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "211": {
+    "index": 211,
+    "francais": "ensemble",
+    "portugais": "juntos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "212": {
+    "index": 212,
+    "francais": "la fin, le but",
+    "portugais": "o fim",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "213": {
+    "index": 213,
+    "francais": "croire",
+    "portugais": "acreditar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "214": {
+    "index": 214,
+    "francais": "causer, provoquer",
+    "portugais": "causar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "215": {
+    "index": 215,
+    "francais": "une école",
+    "portugais": "uma escola",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "216": {
+    "index": 216,
+    "francais": "au milieu",
+    "portugais": "no meio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "217": {
+    "index": 217,
+    "francais": "majeur",
+    "portugais": "maior",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "218": {
+    "index": 218,
+    "francais": "commencer",
+    "portugais": "começar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "219": {
+    "index": 219,
+    "francais": "chef",
+    "portugais": "chefe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "220": {
+    "index": 220,
+    "francais": "dormir",
+    "portugais": "dormir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "221": {
+    "index": 221,
+    "francais": "vieux/vieille",
+    "portugais": "velho/-lha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "222": {
+    "index": 222,
+    "francais": "finir",
+    "portugais": "acabar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "223": {
+    "index": 223,
+    "francais": "idiot/idiote",
+    "portugais": "idiota",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "224": {
+    "index": 224,
+    "francais": "unique",
+    "portugais": "única",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "225": {
+    "index": 225,
+    "francais": "au dernier moment",
+    "portugais": "à última da hora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "226": {
+    "index": 226,
+    "francais": "dollars",
+    "portugais": "dólares",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "227": {
+    "index": 227,
+    "francais": "facile",
+    "portugais": "fácil",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "228": {
+    "index": 228,
+    "francais": "difficile",
+    "portugais": "difícil",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "229": {
+    "index": 229,
+    "francais": "le coeur",
+    "portugais": "o coração",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "230": {
+    "index": 230,
+    "francais": "un numéro",
+    "portugais": "um número",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "231": {
+    "index": 231,
+    "francais": "se lamenter",
+    "portugais": "lamentar-se",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "232": {
+    "index": 232,
+    "francais": "vivre",
+    "portugais": "viver",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "233": {
+    "index": 233,
+    "francais": "plaisir",
+    "portugais": "prazer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "234": {
+    "index": 234,
+    "francais": "un enfant",
+    "portugais": "uma criança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "235": {
+    "index": 235,
+    "francais": "deuxième, seconde",
+    "portugais": "segundo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "236": {
+    "index": 236,
+    "francais": "un capitaine",
+    "portugais": "um capitão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "237": {
+    "index": 237,
+    "francais": "sang",
+    "portugais": "o sangue",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "238": {
+    "index": 238,
+    "francais": "le corps",
+    "portugais": "o corpo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "239": {
+    "index": 239,
+    "francais": "utiliser, porter",
+    "portugais": "usar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "240": {
+    "index": 240,
+    "francais": "signifier",
+    "portugais": "significar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "241": {
+    "index": 241,
+    "francais": "une fête",
+    "portugais": "uma festa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "242": {
+    "index": 242,
+    "francais": "petit/-ite",
+    "portugais": "pequeno/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "243": {
+    "index": 243,
+    "francais": "mauvais/-aise",
+    "portugais": "mau/má",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "244": {
+    "index": 244,
+    "francais": "la force",
+    "portugais": "a força",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "245": {
+    "index": 245,
+    "francais": "loin",
+    "portugais": "longe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "246": {
+    "index": 246,
+    "francais": "vite",
+    "portugais": "depressa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "247": {
+    "index": 247,
+    "francais": "mari",
+    "portugais": "marido",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "248": {
+    "index": 248,
+    "francais": "épouse",
+    "portugais": "esposa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "249": {
+    "index": 249,
+    "francais": "président",
+    "portugais": "presidente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "250": {
+    "index": 250,
+    "francais": "prendre",
+    "portugais": "tomar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "251": {
+    "index": 251,
+    "francais": "trop",
+    "portugais": "demais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "252": {
+    "index": 252,
+    "francais": "mois",
+    "portugais": "meses",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "253": {
+    "index": 253,
+    "francais": "peine",
+    "portugais": "pena",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "254": {
+    "index": 254,
+    "francais": "perdre",
+    "portugais": "perder",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "255": {
+    "index": 255,
+    "francais": "derrière",
+    "portugais": "de trás",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "256": {
+    "index": 256,
+    "francais": "chercher",
+    "portugais": "buscar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "257": {
+    "index": 257,
+    "francais": "la paix",
+    "portugais": "a paz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "258": {
+    "index": 258,
+    "francais": "la recherche, la demande",
+    "portugais": "a procura",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "259": {
+    "index": 259,
+    "francais": "bordel!",
+    "portugais": "porra!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "260": {
+    "index": 260,
+    "francais": "un télèphone",
+    "portugais": "um telefone",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "261": {
+    "index": 261,
+    "francais": "le rayon",
+    "portugais": "o raio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "262": {
+    "index": 262,
+    "francais": "un père, un parent",
+    "portugais": "um pai",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "263": {
+    "index": 263,
+    "francais": "un pays",
+    "portugais": "um país",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "264": {
+    "index": 264,
+    "francais": "taille, époque",
+    "portugais": "altura",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "265": {
+    "index": 265,
+    "francais": "petit garçon, petite fille",
+    "portugais": "menino/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "266": {
+    "index": 266,
+    "francais": "faux/fausse",
+    "portugais": "errado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "267": {
+    "index": 267,
+    "francais": "un film",
+    "portugais": "um filme",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "268": {
+    "index": 268,
+    "francais": "d'accord",
+    "portugais": "de acordo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "269": {
+    "index": 269,
+    "francais": "une question",
+    "portugais": "uma pergunta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "270": {
+    "index": 270,
+    "francais": "possible",
+    "portugais": "possível",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "271": {
+    "index": 271,
+    "francais": "impossible",
+    "portugais": "impossível",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "272": {
+    "index": 272,
+    "francais": "le lit",
+    "portugais": "a cama",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "273": {
+    "index": 273,
+    "francais": "suffisant(e)",
+    "portugais": "suficiente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "274": {
+    "index": 274,
+    "francais": "étrange, étranger",
+    "portugais": "estranho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "275": {
+    "index": 275,
+    "francais": "la sécurité, l'assurance",
+    "portugais": "a segurança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "276": {
+    "index": 276,
+    "francais": "la ceinture de sécurité",
+    "portugais": "o cinto de segurança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "277": {
+    "index": 277,
+    "francais": "pute, putain",
+    "portugais": "puta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "278": {
+    "index": 278,
+    "francais": "plaisanter",
+    "portugais": "brincar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "279": {
+    "index": 279,
+    "francais": "une autorisation",
+    "portugais": "uma licença",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "280": {
+    "index": 280,
+    "francais": "lã-bas, plus loin",
+    "portugais": "além",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "281": {
+    "index": 281,
+    "francais": "réussir, obtenir",
+    "portugais": "conseguir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "282": {
+    "index": 282,
+    "francais": "un livre",
+    "portugais": "um livro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "283": {
+    "index": 283,
+    "francais": "retirer, enlever",
+    "portugais": "tirar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "284": {
+    "index": 284,
+    "francais": "dîner",
+    "portugais": "jantar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "285": {
+    "index": 285,
+    "francais": "un mot",
+    "portugais": "uma palavra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "286": {
+    "index": 286,
+    "francais": "connaître",
+    "portugais": "conhecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "287": {
+    "index": 287,
+    "francais": "la bouche",
+    "portugais": "a boca",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "288": {
+    "index": 288,
+    "francais": "une faute",
+    "portugais": "uma falta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "289": {
+    "index": 289,
+    "francais": "assez",
+    "portugais": "bastante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "290": {
+    "index": 290,
+    "francais": "la lumière",
+    "portugais": "a luz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "291": {
+    "index": 291,
+    "francais": "accoucher",
+    "portugais": "dar à luz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "292": {
+    "index": 292,
+    "francais": "air",
+    "portugais": "ar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "293": {
+    "index": 293,
+    "francais": "la musique",
+    "portugais": "a música",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "294": {
+    "index": 294,
+    "francais": "payer",
+    "portugais": "pagar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "295": {
+    "index": 295,
+    "francais": "le feu",
+    "portugais": "o fogo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "296": {
+    "index": 296,
+    "francais": "propre",
+    "portugais": "próprio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "297": {
+    "index": 297,
+    "francais": "vouloir",
+    "portugais": "querer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "298": {
+    "index": 298,
+    "francais": "fort/-orte",
+    "portugais": "forte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "299": {
+    "index": 299,
+    "francais": "exister",
+    "portugais": "existir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "300": {
+    "index": 300,
+    "francais": "demander",
+    "portugais": "pedir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "301": {
+    "index": 301,
+    "francais": "continuer",
+    "portugais": "continuar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "302": {
+    "index": 302,
+    "francais": "changer",
+    "portugais": "mudar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "303": {
+    "index": 303,
+    "francais": "le roi",
+    "portugais": "o rei",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "304": {
+    "index": 304,
+    "francais": "le droit",
+    "portugais": "o direito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "305": {
+    "index": 305,
+    "francais": "à droite",
+    "portugais": "à direita",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "306": {
+    "index": 306,
+    "francais": "à gauche",
+    "portugais": "esquerda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "307": {
+    "index": 307,
+    "francais": "jeune/-s",
+    "portugais": "jovem/-vens",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "308": {
+    "index": 308,
+    "francais": "café",
+    "portugais": "café",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "309": {
+    "index": 309,
+    "francais": "différent",
+    "portugais": "diferente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "310": {
+    "index": 310,
+    "francais": "culpabilité",
+    "portugais": "culpa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "311": {
+    "index": 311,
+    "francais": "être coupable",
+    "portugais": "ter culpa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "312": {
+    "index": 312,
+    "francais": "un plan",
+    "portugais": "um plano",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "313": {
+    "index": 313,
+    "francais": "la rue",
+    "portugais": "a rua",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "314": {
+    "index": 314,
+    "francais": "obtenir",
+    "portugais": "conseguir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "315": {
+    "index": 315,
+    "francais": "les pieds",
+    "portugais": "os pés",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "316": {
+    "index": 316,
+    "francais": "courir",
+    "portugais": "correr",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "317": {
+    "index": 317,
+    "francais": "la semaine prochaine",
+    "portugais": "a próxima semana",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "318": {
+    "index": 318,
+    "francais": "une équipe",
+    "portugais": "uma equipa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "319": {
+    "index": 319,
+    "francais": "beau/belle",
+    "portugais": "lindo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "320": {
+    "index": 320,
+    "francais": "même pas",
+    "portugais": "nem sequer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "321": {
+    "index": 321,
+    "francais": "probablement",
+    "portugais": "provavelmente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "322": {
+    "index": 322,
+    "francais": "exactement",
+    "portugais": "exactamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "323": {
+    "index": 323,
+    "francais": "spécial(e)",
+    "portugais": "especial",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "324": {
+    "index": 324,
+    "francais": "gagner",
+    "portugais": "ganhar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "325": {
+    "index": 325,
+    "francais": "la salle, le salon",
+    "portugais": "a sala",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "326": {
+    "index": 326,
+    "francais": "le reste",
+    "portugais": "o resto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "327": {
+    "index": 327,
+    "francais": "un prêtre",
+    "portugais": "um pior",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "328": {
+    "index": 328,
+    "francais": "être en train de",
+    "portugais": "estar a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "329": {
+    "index": 329,
+    "francais": "natal/-ale",
+    "portugais": "natal",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "330": {
+    "index": 330,
+    "francais": "beau/belle",
+    "portugais": "bonito/-a, belo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "331": {
+    "index": 331,
+    "francais": "un point",
+    "portugais": "um ponto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "332": {
+    "index": 332,
+    "francais": "chien/-iens (m)",
+    "portugais": "cão/-ães (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "333": {
+    "index": 333,
+    "francais": "un visa",
+    "portugais": "um visto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "334": {
+    "index": 334,
+    "francais": "le médecin",
+    "portugais": "o médico",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "335": {
+    "index": 335,
+    "francais": "fou/folle",
+    "portugais": "louco/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "336": {
+    "index": 336,
+    "francais": "aimer",
+    "portugais": "amar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "337": {
+    "index": 337,
+    "francais": "boire",
+    "portugais": "beber",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "338": {
+    "index": 338,
+    "francais": "un agent",
+    "portugais": "um agente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "339": {
+    "index": 339,
+    "francais": "suivre",
+    "portugais": "seguir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "340": {
+    "index": 340,
+    "francais": "les affaires",
+    "portugais": "os negócios",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "341": {
+    "index": 341,
+    "francais": "négocier",
+    "portugais": "negociar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "342": {
+    "index": 342,
+    "francais": "haut, grand",
+    "portugais": "alto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "343": {
+    "index": 343,
+    "francais": "la colère",
+    "portugais": "a ira",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "344": {
+    "index": 344,
+    "francais": "final",
+    "portugais": "final",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "345": {
+    "index": 345,
+    "francais": "manière, mode",
+    "portugais": "modo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "346": {
+    "index": 346,
+    "francais": "mode d'emploi",
+    "portugais": "modo de emprego",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "347": {
+    "index": 347,
+    "francais": "trop",
+    "portugais": "demasiado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "348": {
+    "index": 348,
+    "francais": "appeler",
+    "portugais": "chamar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "349": {
+    "index": 349,
+    "francais": "acheter",
+    "portugais": "comprar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "350": {
+    "index": 350,
+    "francais": "soleil",
+    "portugais": "sol",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "351": {
+    "index": 351,
+    "francais": "tôt",
+    "portugais": "cedo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "352": {
+    "index": 352,
+    "francais": "hôpital/-s",
+    "portugais": "hospital/-ais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "353": {
+    "index": 353,
+    "francais": "prison/-s (f)",
+    "portugais": "prisão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "354": {
+    "index": 354,
+    "francais": "un voyage",
+    "portugais": "uma viagem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "355": {
+    "index": 355,
+    "francais": "docteur",
+    "portugais": "um doutor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "356": {
+    "index": 356,
+    "francais": "un système",
+    "portugais": "um sistema",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "357": {
+    "index": 357,
+    "francais": "oncle/tante",
+    "portugais": "tio/tia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "358": {
+    "index": 358,
+    "francais": "une opportunité",
+    "portugais": "uma oportunidade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "359": {
+    "index": 359,
+    "francais": "la campagne, le champ",
+    "portugais": "o campo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "360": {
+    "index": 360,
+    "francais": "un bain",
+    "portugais": "um banho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "361": {
+    "index": 361,
+    "francais": "se doucher",
+    "portugais": "tomar banho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "362": {
+    "index": 362,
+    "francais": "être sûr/sûre",
+    "portugais": "estar seguro/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "363": {
+    "index": 363,
+    "francais": "inquiéter",
+    "portugais": "preocupar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "364": {
+    "index": 364,
+    "francais": "l'envie, la volonté",
+    "portugais": "a vontade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "365": {
+    "index": 365,
+    "francais": "général/généraux",
+    "portugais": "general/generais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "366": {
+    "index": 366,
+    "francais": "le sexe",
+    "portugais": "o sexo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "367": {
+    "index": 367,
+    "francais": "un bateau",
+    "portugais": "um barco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "368": {
+    "index": 368,
+    "francais": "adorer",
+    "portugais": "adorar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "369": {
+    "index": 369,
+    "francais": "respecter",
+    "portugais": "respeitar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "370": {
+    "index": 370,
+    "francais": "un groupe",
+    "portugais": "um grupo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "371": {
+    "index": 371,
+    "francais": "professeur",
+    "portugais": "professor/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "372": {
+    "index": 372,
+    "francais": "découvrir",
+    "portugais": "descobrir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "373": {
+    "index": 373,
+    "francais": "les cheveux",
+    "portugais": "os cabelos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "374": {
+    "index": 374,
+    "francais": "le sol",
+    "portugais": "o chão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "375": {
+    "index": 375,
+    "francais": "joindre, allumer, appeler",
+    "portugais": "ligar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "376": {
+    "index": 376,
+    "francais": "conserver, garder",
+    "portugais": "manter",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "377": {
+    "index": 377,
+    "francais": "parfait",
+    "portugais": "perfeito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "378": {
+    "index": 378,
+    "francais": "petit, gamin",
+    "portugais": "miúdo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "379": {
+    "index": 379,
+    "francais": "capable",
+    "portugais": "capaz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "380": {
+    "index": 380,
+    "francais": "donc",
+    "portugais": "portanto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "381": {
+    "index": 381,
+    "francais": "situation/-s (f)",
+    "portugais": "situação/ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "382": {
+    "index": 382,
+    "francais": "trouver, arranger",
+    "portugais": "arranjar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "383": {
+    "index": 383,
+    "francais": "un avion",
+    "portugais": "um avião",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "384": {
+    "index": 384,
+    "francais": "simple",
+    "portugais": "simples",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "385": {
+    "index": 385,
+    "francais": "un ordre",
+    "portugais": "uma ordem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "386": {
+    "index": 386,
+    "francais": "le futur",
+    "portugais": "o futuro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "387": {
+    "index": 387,
+    "francais": "un bébé",
+    "portugais": "um bebé",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "388": {
+    "index": 388,
+    "francais": "une ligne",
+    "portugais": "uma linha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "389": {
+    "index": 389,
+    "francais": "endroit, site",
+    "portugais": "sítio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "390": {
+    "index": 390,
+    "francais": "une question",
+    "portugais": "uma questão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "391": {
+    "index": 391,
+    "francais": "un signal, un signe",
+    "portugais": "um sinal",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "392": {
+    "index": 392,
+    "francais": "où, dans lequel",
+    "portugais": "aonde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "393": {
+    "index": 393,
+    "francais": "un emploit",
+    "portugais": "um emprego",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "394": {
+    "index": 394,
+    "francais": "complètement",
+    "portugais": "completamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "395": {
+    "index": 395,
+    "francais": "endroit, local",
+    "portugais": "local",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "396": {
+    "index": 396,
+    "francais": "la drogue",
+    "portugais": "a droga",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "397": {
+    "index": 397,
+    "francais": "croire",
+    "portugais": "crer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "398": {
+    "index": 398,
+    "francais": "âge",
+    "portugais": "idade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "399": {
+    "index": 399,
+    "francais": "lutter",
+    "portugais": "lutar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "400": {
+    "index": 400,
+    "francais": "une lettre, une carte",
+    "portugais": "uma carta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "401": {
+    "index": 401,
+    "francais": "cueillir, ramasser",
+    "portugais": "apanhar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "402": {
+    "index": 402,
+    "francais": "pécher",
+    "portugais": "pecar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "403": {
+    "index": 403,
+    "francais": "je vous prie de m'excuser",
+    "portugais": "Peço que me desculpe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "404": {
+    "index": 404,
+    "francais": "un talent, une facon",
+    "portugais": "um jeito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "405": {
+    "index": 405,
+    "francais": "le fond",
+    "portugais": "o fundo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "406": {
+    "index": 406,
+    "francais": "le ciel",
+    "portugais": "o céu",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "407": {
+    "index": 407,
+    "francais": "le sujet",
+    "portugais": "o assunto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "408": {
+    "index": 408,
+    "francais": "la faim",
+    "portugais": "a fome",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "409": {
+    "index": 409,
+    "francais": "l'armée",
+    "portugais": "o exército",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "410": {
+    "index": 410,
+    "francais": "lire",
+    "portugais": "ler",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "411": {
+    "index": 411,
+    "francais": "vêtement/-s",
+    "portugais": "roupa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "412": {
+    "index": 412,
+    "francais": "un rêve",
+    "portugais": "um sonho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "413": {
+    "index": 413,
+    "francais": "un gars",
+    "portugais": "um gajo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "414": {
+    "index": 414,
+    "francais": "les nouvelles",
+    "portugais": "as notícias",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "415": {
+    "index": 415,
+    "francais": "intéresser",
+    "portugais": "interessar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "416": {
+    "index": 416,
+    "francais": "malade",
+    "portugais": "doente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "417": {
+    "index": 417,
+    "francais": "le gouvernement",
+    "portugais": "o governo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "418": {
+    "index": 418,
+    "francais": "papa",
+    "portugais": "papá",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "419": {
+    "index": 419,
+    "francais": "maman",
+    "portugais": "mamã",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "420": {
+    "index": 420,
+    "francais": "idiot(e), stupide",
+    "portugais": "estúpido",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "421": {
+    "index": 421,
+    "francais": "montrer",
+    "portugais": "mostrar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "422": {
+    "index": 422,
+    "francais": "démarrer",
+    "portugais": "pegar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "423": {
+    "index": 423,
+    "francais": "la route",
+    "portugais": "a estrada",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "424": {
+    "index": 424,
+    "francais": "un banc, une banque",
+    "portugais": "um banco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "425": {
+    "index": 425,
+    "francais": "hotel/-s (m)",
+    "portugais": "hotel/-éis (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "426": {
+    "index": 426,
+    "francais": "vrai, original",
+    "portugais": "verdadeiro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "427": {
+    "index": 427,
+    "francais": "le peuple",
+    "portugais": "o povo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "428": {
+    "index": 428,
+    "francais": "un bureau, un cabinet",
+    "portugais": "um escritório",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "429": {
+    "index": 429,
+    "francais": "jouer, toucher, aborder",
+    "portugais": "tocar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "430": {
+    "index": 430,
+    "francais": "amusant/-e",
+    "portugais": "engraçado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "431": {
+    "index": 431,
+    "francais": "la loi",
+    "portugais": "a lei",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "432": {
+    "index": 432,
+    "francais": "un prêtre",
+    "portugais": "um padre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "433": {
+    "index": 433,
+    "francais": "apporter",
+    "portugais": "trazer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "434": {
+    "index": 434,
+    "francais": "ok",
+    "portugais": "tá",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "435": {
+    "index": 435,
+    "francais": "simplement",
+    "portugais": "simplesmente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "436": {
+    "index": 436,
+    "francais": "traiter",
+    "portugais": "tratar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "437": {
+    "index": 437,
+    "francais": "le programme",
+    "portugais": "o programa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "438": {
+    "index": 438,
+    "francais": "le diable",
+    "portugais": "o diabo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "439": {
+    "index": 439,
+    "francais": "un esprit sain",
+    "portugais": "uma mente sã",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "440": {
+    "index": 440,
+    "francais": "un service",
+    "portugais": "um serviço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "441": {
+    "index": 441,
+    "francais": "la voix",
+    "portugais": "a voz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "442": {
+    "index": 442,
+    "francais": "présent/-ente",
+    "portugais": "presente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "443": {
+    "index": 443,
+    "francais": "après",
+    "portugais": "após",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "444": {
+    "index": 444,
+    "francais": "une réponse",
+    "portugais": "uma resposta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "445": {
+    "index": 445,
+    "francais": "un message",
+    "portugais": "uma mensagem",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "446": {
+    "index": 446,
+    "francais": "fuire",
+    "portugais": "fugir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "447": {
+    "index": 447,
+    "francais": "chaud/-de",
+    "portugais": "quente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "448": {
+    "index": 448,
+    "francais": "au chaud",
+    "portugais": "no quente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "449": {
+    "index": 449,
+    "francais": "froid/-oide",
+    "portugais": "frio/-ia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "450": {
+    "index": 450,
+    "francais": "une compagnie",
+    "portugais": "uma companhia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "451": {
+    "index": 451,
+    "francais": "le fait de",
+    "portugais": "o facto de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "452": {
+    "index": 452,
+    "francais": "une conversation",
+    "portugais": "uma conversa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "453": {
+    "index": 453,
+    "francais": "à travers",
+    "portugais": "através",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "454": {
+    "index": 454,
+    "francais": "normal/-aux",
+    "portugais": "normal/-ais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "455": {
+    "index": 455,
+    "francais": "l'espace",
+    "portugais": "o espaço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "456": {
+    "index": 456,
+    "francais": "écrire",
+    "portugais": "escrever",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "457": {
+    "index": 457,
+    "francais": "incroyable",
+    "portugais": "incrível",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "458": {
+    "index": 458,
+    "francais": "bref/brève",
+    "portugais": "breve",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "459": {
+    "index": 459,
+    "francais": "ouvrir",
+    "portugais": "abrir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "460": {
+    "index": 460,
+    "francais": "chercher (à +inf)",
+    "portugais": "procurar (+inf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "461": {
+    "index": 461,
+    "francais": "le salon, le marché",
+    "portugais": "a feira",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "462": {
+    "index": 462,
+    "francais": "l'enfer",
+    "portugais": "o inferno",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "463": {
+    "index": 463,
+    "francais": "une attaque",
+    "portugais": "um ataque",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "464": {
+    "index": 464,
+    "francais": "un accident",
+    "portugais": "um acidente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "465": {
+    "index": 465,
+    "francais": "un manche, un bout",
+    "portugais": "um cabo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "466": {
+    "index": 466,
+    "francais": "super, cool",
+    "portugais": "fixe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "467": {
+    "index": 467,
+    "francais": "un assassin",
+    "portugais": "um assassino",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "468": {
+    "index": 468,
+    "francais": "le dos",
+    "portugais": "as costas",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "469": {
+    "index": 469,
+    "francais": "grâce à",
+    "portugais": "graças a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "470": {
+    "index": 470,
+    "francais": "mer/-s (f)",
+    "portugais": "mar/-es (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "471": {
+    "index": 471,
+    "francais": "papier/-s (m)",
+    "portugais": "papel/-éis (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "472": {
+    "index": 472,
+    "francais": "sauver",
+    "portugais": "salvar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "473": {
+    "index": 473,
+    "francais": "les deux",
+    "portugais": "ambos/-as",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "474": {
+    "index": 474,
+    "francais": "une douleur",
+    "portugais": "uma dor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "475": {
+    "index": 475,
+    "francais": "mission/-s (f)",
+    "portugais": "missão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "476": {
+    "index": 476,
+    "francais": "immédiatement",
+    "portugais": "imediatamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "477": {
+    "index": 477,
+    "francais": "tomber",
+    "portugais": "cair",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "478": {
+    "index": 478,
+    "francais": "en or",
+    "portugais": "em ouro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "479": {
+    "index": 479,
+    "francais": "un lieutenant",
+    "portugais": "um tenente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "480": {
+    "index": 480,
+    "francais": "écouter",
+    "portugais": "escutar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "481": {
+    "index": 481,
+    "francais": "la clef",
+    "portugais": "a chave",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "482": {
+    "index": 482,
+    "francais": "un crime",
+    "portugais": "um crime",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "483": {
+    "index": 483,
+    "francais": "maudit/-te",
+    "portugais": "maldito/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "484": {
+    "index": 484,
+    "francais": "or, cependant",
+    "portugais": "ora",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "485": {
+    "index": 485,
+    "francais": "le centre",
+    "portugais": "o centro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "486": {
+    "index": 486,
+    "francais": "un ballon, une boule",
+    "portugais": "uma bola",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "487": {
+    "index": 487,
+    "francais": "très bien, optimum",
+    "portugais": "ótimo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "488": {
+    "index": 488,
+    "francais": "un cheval, un cavalier",
+    "portugais": "um cavalo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "489": {
+    "index": 489,
+    "francais": "rappeler",
+    "portugais": "lembrar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "490": {
+    "index": 490,
+    "francais": "fantastique",
+    "portugais": "fantástico/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "491": {
+    "index": 491,
+    "francais": "le nord",
+    "portugais": "o norte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "492": {
+    "index": 492,
+    "francais": "le sud",
+    "portugais": "o sul",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "493": {
+    "index": 493,
+    "francais": "l'ouest",
+    "portugais": "a oeste",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "494": {
+    "index": 494,
+    "francais": "l'est",
+    "portugais": "a leste",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "495": {
+    "index": 495,
+    "francais": "félicitations!",
+    "portugais": "parabéns!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "496": {
+    "index": 496,
+    "francais": "le gardien",
+    "portugais": "o guarda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "497": {
+    "index": 497,
+    "francais": "la garde",
+    "portugais": "a guarda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "498": {
+    "index": 498,
+    "francais": "garder",
+    "portugais": "guardar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "499": {
+    "index": 499,
+    "francais": "une boîte, une caisse",
+    "portugais": "uma caixa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "500": {
+    "index": 500,
+    "francais": "parier",
+    "portugais": "apostar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "501": {
+    "index": 501,
+    "francais": "relation/-s (f)",
+    "portugais": "relação/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "502": {
+    "index": 502,
+    "francais": "colonel/-s (m)",
+    "portugais": "coronel/-éis (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "503": {
+    "index": 503,
+    "francais": "excelente/-ente",
+    "portugais": "excelente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "504": {
+    "index": 504,
+    "francais": "la moitié",
+    "portugais": "a metade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "505": {
+    "index": 505,
+    "francais": "l'âme",
+    "portugais": "a alma",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "506": {
+    "index": 506,
+    "francais": "taux d'intérêt",
+    "portugais": "taxa de juro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "507": {
+    "index": 507,
+    "francais": "un magasin",
+    "portugais": "uma loja",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "508": {
+    "index": 508,
+    "francais": "le (petit) déjeuner",
+    "portugais": "o (pequeno-) almoço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "509": {
+    "index": 509,
+    "francais": "avocat/-ate",
+    "portugais": "advogado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "510": {
+    "index": 510,
+    "francais": "un maître",
+    "portugais": "um mestre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "511": {
+    "index": 511,
+    "francais": "plein/-ne",
+    "portugais": "cheio/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "512": {
+    "index": 512,
+    "francais": "une surprise",
+    "portugais": "uma surpresa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "513": {
+    "index": 513,
+    "francais": "une gamine",
+    "portugais": "uma garota",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "514": {
+    "index": 514,
+    "francais": "une liste",
+    "portugais": "uma lista",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "515": {
+    "index": 515,
+    "francais": "au sujet de",
+    "portugais": "acerca de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "516": {
+    "index": 516,
+    "francais": "petit(e) copin(e)",
+    "portugais": "namorado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "517": {
+    "index": 517,
+    "francais": "pauvre",
+    "portugais": "pobre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "518": {
+    "index": 518,
+    "francais": "dancer",
+    "portugais": "dançar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "519": {
+    "index": 519,
+    "francais": "la chair, la viande",
+    "portugais": "a carne",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "520": {
+    "index": 520,
+    "francais": "la scène",
+    "portugais": "a cena",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "521": {
+    "index": 521,
+    "francais": "un choix",
+    "portugais": "uma escolha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "522": {
+    "index": 522,
+    "francais": "information/-s",
+    "portugais": "informação/-ões",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "523": {
+    "index": 523,
+    "francais": "animal/-aux (m)",
+    "portugais": "animal/-ais (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "524": {
+    "index": 524,
+    "francais": "position/-s (f)",
+    "portugais": "posição/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "525": {
+    "index": 525,
+    "francais": "blanc/-anche",
+    "portugais": "branco/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "526": {
+    "index": 526,
+    "francais": "légal(e)/-s",
+    "portugais": "legal/-ais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "527": {
+    "index": 527,
+    "francais": "un fleuve",
+    "portugais": "um rio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "528": {
+    "index": 528,
+    "francais": "le commandant",
+    "portugais": "o comandante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "529": {
+    "index": 529,
+    "francais": "apprendre",
+    "portugais": "aprender",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "530": {
+    "index": 530,
+    "francais": "une preuve",
+    "portugais": "uma prova",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "531": {
+    "index": 531,
+    "francais": "prouver",
+    "portugais": "provar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "532": {
+    "index": 532,
+    "francais": "une robe",
+    "portugais": "um vestido",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "533": {
+    "index": 533,
+    "francais": "habiller",
+    "portugais": "vestir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "534": {
+    "index": 534,
+    "francais": "un(e) sergent",
+    "portugais": "um(a) sargento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "535": {
+    "index": 535,
+    "francais": "le destin",
+    "portugais": "o destino",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "536": {
+    "index": 536,
+    "francais": "une hélice",
+    "portugais": "uma hei",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "537": {
+    "index": 537,
+    "francais": "l'honneur",
+    "portugais": "a honra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "538": {
+    "index": 538,
+    "francais": "l'énergie",
+    "portugais": "a energia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "539": {
+    "index": 539,
+    "francais": "une église",
+    "portugais": "uma igreja",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "540": {
+    "index": 540,
+    "francais": "des biens",
+    "portugais": "dos bens",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "541": {
+    "index": 541,
+    "francais": "fonctionner",
+    "portugais": "funcionar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "542": {
+    "index": 542,
+    "francais": "la liberté",
+    "portugais": "a liberdade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "543": {
+    "index": 543,
+    "francais": "au secours!",
+    "portugais": "socorro!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "544": {
+    "index": 544,
+    "francais": "une cloture",
+    "portugais": "uma cerca",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "545": {
+    "index": 545,
+    "francais": "autour de",
+    "portugais": "cerca de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "546": {
+    "index": 546,
+    "francais": "oublier",
+    "portugais": "esquecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "547": {
+    "index": 547,
+    "francais": "bar/-s (m)",
+    "portugais": "bar/-ares (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "548": {
+    "index": 548,
+    "francais": "horrible",
+    "portugais": "horrível",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "549": {
+    "index": 549,
+    "francais": "une pelle",
+    "portugais": "uma pá",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "550": {
+    "index": 550,
+    "francais": "un/en secret",
+    "portugais": "um/em segredo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "551": {
+    "index": 551,
+    "francais": "merveilleux",
+    "portugais": "maravilhoso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "552": {
+    "index": 552,
+    "francais": "une bière",
+    "portugais": "uma cerveja",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "553": {
+    "index": 553,
+    "francais": "divertissant",
+    "portugais": "divertido",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "554": {
+    "index": 554,
+    "francais": "réunion/-s (f)",
+    "portugais": "reunião/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "555": {
+    "index": 555,
+    "francais": "baiser, faire voir",
+    "portugais": "foder",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "556": {
+    "index": 556,
+    "francais": "une règle",
+    "portugais": "uma regra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "557": {
+    "index": 557,
+    "francais": "la planète",
+    "portugais": "o planeta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "558": {
+    "index": 558,
+    "francais": "triste",
+    "portugais": "triste",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "559": {
+    "index": 559,
+    "francais": "comprendre",
+    "portugais": "entender",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "560": {
+    "index": 560,
+    "francais": "promettre",
+    "portugais": "prometer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "561": {
+    "index": 561,
+    "francais": "par exemple",
+    "portugais": "por exemplo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "562": {
+    "index": 562,
+    "francais": "maillot de bain",
+    "portugais": "fato de banho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "563": {
+    "index": 563,
+    "francais": "la messe",
+    "portugais": "a missa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "564": {
+    "index": 564,
+    "francais": "sous",
+    "portugais": "debaixo de",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "565": {
+    "index": 565,
+    "francais": "expliquer",
+    "portugais": "explicar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "566": {
+    "index": 566,
+    "francais": "grand-mère",
+    "portugais": "avó",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "567": {
+    "index": 567,
+    "francais": "grand-père",
+    "portugais": "avô",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "568": {
+    "index": 568,
+    "francais": "totalement",
+    "portugais": "totalmente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "569": {
+    "index": 569,
+    "francais": "recevoir",
+    "portugais": "receber",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "570": {
+    "index": 570,
+    "francais": "un danger",
+    "portugais": "um perigo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "571": {
+    "index": 571,
+    "francais": "santé",
+    "portugais": "saúde",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "572": {
+    "index": 572,
+    "francais": "une machine",
+    "portugais": "uma máquina",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "573": {
+    "index": 573,
+    "francais": "la sortie",
+    "portugais": "a saída",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "574": {
+    "index": 574,
+    "francais": "la majorité",
+    "portugais": "a maioria",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "575": {
+    "index": 575,
+    "francais": "battre",
+    "portugais": "bater",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "576": {
+    "index": 576,
+    "francais": "un appartement",
+    "portugais": "um apartamento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "577": {
+    "index": 577,
+    "francais": "noir/-e",
+    "portugais": "negro/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "578": {
+    "index": 578,
+    "francais": "l'envie",
+    "portugais": "o desejo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "579": {
+    "index": 579,
+    "francais": "une difference",
+    "portugais": "uma diferença",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "580": {
+    "index": 580,
+    "francais": "la radio",
+    "portugais": "a rádio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "581": {
+    "index": 581,
+    "francais": "la base",
+    "portugais": "a base",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "582": {
+    "index": 582,
+    "francais": "s'apercevoir",
+    "portugais": "perceber",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "583": {
+    "index": 583,
+    "francais": "humain/-e",
+    "portugais": "humano/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "584": {
+    "index": 584,
+    "francais": "envoyer",
+    "portugais": "mandar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "585": {
+    "index": 585,
+    "francais": "la fenêtre",
+    "portugais": "a janela",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "586": {
+    "index": 586,
+    "francais": "vendre",
+    "portugais": "vender",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "587": {
+    "index": 587,
+    "francais": "la nourrice",
+    "portugais": "a ama",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "588": {
+    "index": 588,
+    "francais": "public/-ique",
+    "portugais": "público",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "589": {
+    "index": 589,
+    "francais": "un vaisseau",
+    "portugais": "uma nave",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "590": {
+    "index": 590,
+    "francais": "mettre",
+    "portugais": "pôr",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "591": {
+    "index": 591,
+    "francais": "traduction/-s (f)",
+    "portugais": "tradução/-ções (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "592": {
+    "index": 592,
+    "francais": "tribunal/-aux (m)",
+    "portugais": "tribunal/-ais (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "593": {
+    "index": 593,
+    "francais": "un mont, morceau",
+    "portugais": "um monte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "594": {
+    "index": 594,
+    "francais": "une aire, zone",
+    "portugais": "uma área",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "595": {
+    "index": 595,
+    "francais": "une bombe",
+    "portugais": "uma bomba",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "596": {
+    "index": 596,
+    "francais": "une expérience",
+    "portugais": "uma experiência",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "597": {
+    "index": 597,
+    "francais": "au-dessus, en haut",
+    "portugais": "acima",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "598": {
+    "index": 598,
+    "francais": "la jambe",
+    "portugais": "a perna",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "599": {
+    "index": 599,
+    "francais": "la lune",
+    "portugais": "a lua",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "600": {
+    "index": 600,
+    "francais": "le hasard",
+    "portugais": "o acaso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "601": {
+    "index": 601,
+    "francais": "décision/-s (f)",
+    "portugais": "decisão/sões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "602": {
+    "index": 602,
+    "francais": "détester",
+    "portugais": "odiar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "603": {
+    "index": 603,
+    "francais": "un mètre",
+    "portugais": "um metro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "604": {
+    "index": 604,
+    "francais": "en silence",
+    "portugais": "em silêncio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "605": {
+    "index": 605,
+    "francais": "suivant/-ante",
+    "portugais": "seguinte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "606": {
+    "index": 606,
+    "francais": "putain",
+    "portugais": "caralho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "607": {
+    "index": 607,
+    "francais": "monter, augmenter",
+    "portugais": "subir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "608": {
+    "index": 608,
+    "francais": "lentement",
+    "portugais": "devagar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "609": {
+    "index": 609,
+    "francais": "une espèce",
+    "portugais": "uma espécie",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "610": {
+    "index": 610,
+    "francais": "officiel/-ielle(s)",
+    "portugais": "oficial/-iais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "611": {
+    "index": 611,
+    "francais": "donner",
+    "portugais": "dar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "612": {
+    "index": 612,
+    "francais": "défault/-s (m), sinon",
+    "portugais": "senão/-ões (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "613": {
+    "index": 613,
+    "francais": "comprendre",
+    "portugais": "compreender",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "614": {
+    "index": 614,
+    "francais": "énorme",
+    "portugais": "enorme",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "615": {
+    "index": 615,
+    "francais": "le cerveau",
+    "portugais": "o cérebro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "616": {
+    "index": 616,
+    "francais": "télévision/-s (f)",
+    "portugais": "televisão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "617": {
+    "index": 617,
+    "francais": "but, exprès, à propos de",
+    "portugais": "propósito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "618": {
+    "index": 618,
+    "francais": "résoudre",
+    "portugais": "resolver",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "619": {
+    "index": 619,
+    "francais": "anglais/-aise",
+    "portugais": "inglês",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "620": {
+    "index": 620,
+    "francais": "francais",
+    "portugais": "francês",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "621": {
+    "index": 621,
+    "francais": "l'espérance, l'espoir",
+    "portugais": "a esperança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "622": {
+    "index": 622,
+    "francais": "fou/folle",
+    "portugais": "maluco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "623": {
+    "index": 623,
+    "francais": "bien que, malgré tout",
+    "portugais": "apesar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "624": {
+    "index": 624,
+    "francais": "la reine",
+    "portugais": "a rainha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "625": {
+    "index": 625,
+    "francais": "égal/-ale",
+    "portugais": "igual",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "626": {
+    "index": 626,
+    "francais": "supposer",
+    "portugais": "supor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "627": {
+    "index": 627,
+    "francais": "un doute",
+    "portugais": "uma dúvida",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "628": {
+    "index": 628,
+    "francais": "sucré, confiture",
+    "portugais": "doce",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "629": {
+    "index": 629,
+    "francais": "une île",
+    "portugais": "uma ilha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "630": {
+    "index": 630,
+    "francais": "soudain, soudainement",
+    "portugais": "de repente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "631": {
+    "index": 631,
+    "francais": "un conseil",
+    "portugais": "um conselho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "632": {
+    "index": 632,
+    "francais": "poser",
+    "portugais": "colocar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "633": {
+    "index": 633,
+    "francais": "l'esprit",
+    "portugais": "o espírito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "634": {
+    "index": 634,
+    "francais": "un sac",
+    "portugais": "um saco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "635": {
+    "index": 635,
+    "francais": "une entreprise",
+    "portugais": "uma empresa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "636": {
+    "index": 636,
+    "francais": "une photographie",
+    "portugais": "uma fotografia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "637": {
+    "index": 637,
+    "francais": "prendre une photo",
+    "portugais": "tirar uma foto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "638": {
+    "index": 638,
+    "francais": "un contrôle",
+    "portugais": "um controlo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "639": {
+    "index": 639,
+    "francais": "bleu",
+    "portugais": "azul",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "640": {
+    "index": 640,
+    "francais": "rater le train",
+    "portugais": "perder o comboio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "641": {
+    "index": 641,
+    "francais": "rouge",
+    "portugais": "vermelho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "642": {
+    "index": 642,
+    "francais": "une hypothèse",
+    "portugais": "uma hipótese",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "643": {
+    "index": 643,
+    "francais": "intelligent/-ente",
+    "portugais": "inteligente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "644": {
+    "index": 644,
+    "francais": "en fin de compte",
+    "portugais": "afinal",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "645": {
+    "index": 645,
+    "francais": "une étoile",
+    "portugais": "uma estrela",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "646": {
+    "index": 646,
+    "francais": "un glaçons",
+    "portugais": "um gelo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "647": {
+    "index": 647,
+    "francais": "principal/-ale/-aux",
+    "portugais": "principal/-ais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "648": {
+    "index": 648,
+    "francais": "terminer",
+    "portugais": "terminar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "649": {
+    "index": 649,
+    "francais": "une raison, un motif",
+    "portugais": "um motivo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "650": {
+    "index": 650,
+    "francais": "un soldat",
+    "portugais": "um soldados",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "651": {
+    "index": 651,
+    "francais": "du vin",
+    "portugais": "do vinho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "652": {
+    "index": 652,
+    "francais": "pleurer, regretter",
+    "portugais": "chorar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "653": {
+    "index": 653,
+    "francais": "l'université",
+    "portugais": "a universidade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "654": {
+    "index": 654,
+    "francais": "la défence",
+    "portugais": "a defesa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "655": {
+    "index": 655,
+    "francais": "un trou",
+    "portugais": "um buraco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "656": {
+    "index": 656,
+    "francais": "un test",
+    "portugais": "um teste",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "657": {
+    "index": 657,
+    "francais": "le prix",
+    "portugais": "o preço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "658": {
+    "index": 658,
+    "francais": "voler",
+    "portugais": "roubar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "659": {
+    "index": 659,
+    "francais": "le bras",
+    "portugais": "o braço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "660": {
+    "index": 660,
+    "francais": "entier-/-ière",
+    "portugais": "inteiro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "661": {
+    "index": 661,
+    "francais": "le shérif",
+    "portugais": "o xerife",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "662": {
+    "index": 662,
+    "francais": "chanter",
+    "portugais": "cantar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "663": {
+    "index": 663,
+    "francais": "la cuisine",
+    "portugais": "a cozinha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "664": {
+    "index": 664,
+    "francais": "Quelle saloperie!",
+    "portugais": "Que porcaria!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "665": {
+    "index": 665,
+    "francais": "une zone",
+    "portugais": "uma zona",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "666": {
+    "index": 666,
+    "francais": "disparaître",
+    "portugais": "desaparecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "667": {
+    "index": 667,
+    "francais": "nécessaire",
+    "portugais": "necessário",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "668": {
+    "index": 668,
+    "francais": "juste",
+    "portugais": "justo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "669": {
+    "index": 669,
+    "francais": "confier, avoir confiance",
+    "portugais": "confiar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "670": {
+    "index": 670,
+    "francais": "courage/-s",
+    "portugais": "coragem/-ens (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "671": {
+    "index": 671,
+    "francais": "protéger",
+    "portugais": "proteger",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "672": {
+    "index": 672,
+    "francais": "apparaître",
+    "portugais": "aparecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "673": {
+    "index": 673,
+    "francais": "une(e) ennemi/-ie",
+    "portugais": "um(a) inimigo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "674": {
+    "index": 674,
+    "francais": "un niveau",
+    "portugais": "um nível",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "675": {
+    "index": 675,
+    "francais": "les ordures",
+    "portugais": "o lixo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "676": {
+    "index": 676,
+    "francais": "supposé/-ée",
+    "portugais": "suposto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "677": {
+    "index": 677,
+    "francais": "préparer",
+    "portugais": "preparar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "678": {
+    "index": 678,
+    "francais": "des souliers",
+    "portugais": "dos sapatos",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "679": {
+    "index": 679,
+    "francais": "l'art",
+    "portugais": "a arte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "680": {
+    "index": 680,
+    "francais": "un poisson",
+    "portugais": "um peixe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "681": {
+    "index": 681,
+    "francais": "hasard",
+    "portugais": "chance",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "682": {
+    "index": 682,
+    "francais": "opinion/-s",
+    "portugais": "opinião/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "683": {
+    "index": 683,
+    "francais": "le postérieur",
+    "portugais": "o rabo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "684": {
+    "index": 684,
+    "francais": "accepter",
+    "portugais": "aceitar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "685": {
+    "index": 685,
+    "francais": "les vacances",
+    "portugais": "as férias",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "686": {
+    "index": 686,
+    "francais": "exactement",
+    "portugais": "exatamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "687": {
+    "index": 687,
+    "francais": "l'enfoiré, l'enculé",
+    "portugais": "o cabrão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "688": {
+    "index": 688,
+    "francais": "l'odeur, l'odorat",
+    "portugais": "o cheiro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "689": {
+    "index": 689,
+    "francais": "un héros",
+    "portugais": "um herói",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "690": {
+    "index": 690,
+    "francais": "un code",
+    "portugais": "um código",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "691": {
+    "index": 691,
+    "francais": "uni/-ie",
+    "portugais": "unido/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "692": {
+    "index": 692,
+    "francais": "se brosser les dents",
+    "portugais": "escovar os dentes",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "693": {
+    "index": 693,
+    "francais": "un contact",
+    "portugais": "um contacto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "694": {
+    "index": 694,
+    "francais": "un spectacle",
+    "portugais": "um espectáculo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "695": {
+    "index": 695,
+    "francais": "le nez",
+    "portugais": "o nariz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "696": {
+    "index": 696,
+    "francais": "la timidité, la honte",
+    "portugais": "a vergonha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "697": {
+    "index": 697,
+    "francais": "créer",
+    "portugais": "criar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "698": {
+    "index": 698,
+    "francais": "la nature",
+    "portugais": "a natureza",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "699": {
+    "index": 699,
+    "francais": "client/-te",
+    "portugais": "cliente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "700": {
+    "index": 700,
+    "francais": "occupé/-ée",
+    "portugais": "ocupado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "701": {
+    "index": 701,
+    "francais": "noir/-e",
+    "portugais": "preto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "702": {
+    "index": 702,
+    "francais": "un verre",
+    "portugais": "um copo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "703": {
+    "index": 703,
+    "francais": "une couleur",
+    "portugais": "uma cor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "704": {
+    "index": 704,
+    "francais": "par coeur",
+    "portugais": "de cor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "705": {
+    "index": 705,
+    "francais": "la taille",
+    "portugais": "o tamanho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "706": {
+    "index": 706,
+    "francais": "le cul",
+    "portugais": "o cu",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "707": {
+    "index": 707,
+    "francais": "la princesse",
+    "portugais": "a princesa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "708": {
+    "index": 708,
+    "francais": "le prince",
+    "portugais": "o príncipe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "709": {
+    "index": 709,
+    "francais": "une pierre",
+    "portugais": "uma pedra",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "710": {
+    "index": 710,
+    "francais": "la foi",
+    "portugais": "a fé",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "711": {
+    "index": 711,
+    "francais": "un monstre",
+    "portugais": "um monstro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "712": {
+    "index": 712,
+    "francais": "une époque",
+    "portugais": "uma época",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "713": {
+    "index": 713,
+    "francais": "brillant/-te",
+    "portugais": "brilhante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "714": {
+    "index": 714,
+    "francais": "direction/-s (f)",
+    "portugais": "direcção/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "715": {
+    "index": 715,
+    "francais": "le vent",
+    "portugais": "o vento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "716": {
+    "index": 716,
+    "francais": "une veste",
+    "portugais": "um casaco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "717": {
+    "index": 717,
+    "francais": "le début",
+    "portugais": "o início",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "718": {
+    "index": 718,
+    "francais": "fatigué/-ée",
+    "portugais": "cansado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "719": {
+    "index": 719,
+    "francais": "un arbre",
+    "portugais": "uma árvore",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "720": {
+    "index": 720,
+    "francais": "une bataille",
+    "portugais": "uma batalha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "721": {
+    "index": 721,
+    "francais": "servir",
+    "portugais": "servir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "722": {
+    "index": 722,
+    "francais": "riche",
+    "portugais": "rico/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "723": {
+    "index": 723,
+    "francais": "dé, donnée, ouvert/-erte",
+    "portugais": "dado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "724": {
+    "index": 724,
+    "francais": "avoir l'habitude",
+    "portugais": "costumar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "725": {
+    "index": 725,
+    "francais": "la majesté",
+    "portugais": "a majestade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "726": {
+    "index": 726,
+    "francais": "un succès",
+    "portugais": "um sucesso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "727": {
+    "index": 727,
+    "francais": "une cible",
+    "portugais": "um alvo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "728": {
+    "index": 728,
+    "francais": "le visage",
+    "portugais": "o rosto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "729": {
+    "index": 729,
+    "francais": "un terme",
+    "portugais": "um termo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "730": {
+    "index": 730,
+    "francais": "une classe",
+    "portugais": "uma classe",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "731": {
+    "index": 731,
+    "francais": "la vitesse",
+    "portugais": "a velocidade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "732": {
+    "index": 732,
+    "francais": "la nostalgie",
+    "portugais": "a saudade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "733": {
+    "index": 733,
+    "francais": "saint/-te",
+    "portugais": "santo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "734": {
+    "index": 734,
+    "francais": "chanson/-s (f)",
+    "portugais": "canção/ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "735": {
+    "index": 735,
+    "francais": "un pantalon",
+    "portugais": "umas calças",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "736": {
+    "index": 736,
+    "francais": "un département",
+    "portugais": "um departamento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "737": {
+    "index": 737,
+    "francais": "nettoyer",
+    "portugais": "limpar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "738": {
+    "index": 738,
+    "francais": "un rapport",
+    "portugais": "um relatório",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "739": {
+    "index": 739,
+    "francais": "un paquebot, un navire",
+    "portugais": "um navio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "740": {
+    "index": 740,
+    "francais": "un bruit",
+    "portugais": "um barulho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "741": {
+    "index": 741,
+    "francais": "un bouquet de fleurs",
+    "portugais": "um ramo de flores",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "742": {
+    "index": 742,
+    "francais": "un détective",
+    "portugais": "um detective",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "743": {
+    "index": 743,
+    "francais": "une visite",
+    "portugais": "uma visita",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "744": {
+    "index": 744,
+    "francais": "s'occuper de",
+    "portugais": "lidar com",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "745": {
+    "index": 745,
+    "francais": "chat/-atte",
+    "portugais": "gato/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "746": {
+    "index": 746,
+    "francais": "une urgence",
+    "portugais": "uma emergência",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "747": {
+    "index": 747,
+    "francais": "tirer",
+    "portugais": "disparar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "748": {
+    "index": 748,
+    "francais": "un mur",
+    "portugais": "uma parede",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "749": {
+    "index": 749,
+    "francais": "opération/-s (f)",
+    "portugais": "operação/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "750": {
+    "index": 750,
+    "francais": "jamais",
+    "portugais": "jamais",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "751": {
+    "index": 751,
+    "francais": "retourner, recommencer",
+    "portugais": "tornar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "752": {
+    "index": 752,
+    "francais": "un gentleman",
+    "portugais": "um cavalheiro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "753": {
+    "index": 753,
+    "francais": "complètement",
+    "portugais": "absolutamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "754": {
+    "index": 754,
+    "francais": "détruire",
+    "portugais": "destruir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "755": {
+    "index": 755,
+    "francais": "un ton",
+    "portugais": "um ton",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "756": {
+    "index": 756,
+    "francais": "un baiser",
+    "portugais": "um beijo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "757": {
+    "index": 757,
+    "francais": "un trait, un risque",
+    "portugais": "um risco",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "758": {
+    "index": 758,
+    "francais": "commun, ordinaire",
+    "portugais": "comum",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "759": {
+    "index": 759,
+    "francais": "un ordinateur",
+    "portugais": "um computador",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "760": {
+    "index": 760,
+    "francais": "un restaurant",
+    "portugais": "um restaurante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "761": {
+    "index": 761,
+    "francais": "un cinéma",
+    "portugais": "um cinema",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "762": {
+    "index": 762,
+    "francais": "préférer",
+    "portugais": "prefirir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "763": {
+    "index": 763,
+    "francais": "responsable/-s",
+    "portugais": "responsável/-eis",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "764": {
+    "index": 764,
+    "francais": "journal/-aux (m)",
+    "portugais": "jornal/-ais (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "765": {
+    "index": 765,
+    "francais": "descendre",
+    "portugais": "descer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "766": {
+    "index": 766,
+    "francais": "fin/-ne, rusé/-ée",
+    "portugais": "esperto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "767": {
+    "index": 767,
+    "francais": "cacher",
+    "portugais": "esconder",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "768": {
+    "index": 768,
+    "francais": "seulement",
+    "portugais": "somente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "769": {
+    "index": 769,
+    "francais": "un mouvement",
+    "portugais": "um movimento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "770": {
+    "index": 770,
+    "francais": "une piste",
+    "portugais": "uma pista",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "771": {
+    "index": 771,
+    "francais": "fou/folle",
+    "portugais": "doido/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "772": {
+    "index": 772,
+    "francais": "rire",
+    "portugais": "rir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "773": {
+    "index": 773,
+    "francais": "la plage",
+    "portugais": "a praia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "774": {
+    "index": 774,
+    "francais": "le style",
+    "portugais": "o estilo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "775": {
+    "index": 775,
+    "francais": "action/-s (f)",
+    "portugais": "acção/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "776": {
+    "index": 776,
+    "francais": "couper",
+    "portugais": "cortar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "777": {
+    "index": 777,
+    "francais": "malédiction/-s (f)",
+    "portugais": "maldição/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "778": {
+    "index": 778,
+    "francais": "imaginer",
+    "portugais": "imaginar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "779": {
+    "index": 779,
+    "francais": "la langue",
+    "portugais": "a língua",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "780": {
+    "index": 780,
+    "francais": "fermer",
+    "portugais": "fermer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "781": {
+    "index": 781,
+    "francais": "ouvert/-te",
+    "portugais": "aberto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "782": {
+    "index": 782,
+    "francais": "fermé/-ée",
+    "portugais": "fechado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "783": {
+    "index": 783,
+    "francais": "éviter",
+    "portugais": "evitar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "784": {
+    "index": 784,
+    "francais": "un coup",
+    "portugais": "um toque",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "785": {
+    "index": 785,
+    "francais": "discuter, se disputer",
+    "portugais": "discutir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "786": {
+    "index": 786,
+    "francais": "un/-e juge",
+    "portugais": "um/-a juiz",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "787": {
+    "index": 787,
+    "francais": "pression/-s (f)",
+    "portugais": "pressão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "788": {
+    "index": 788,
+    "francais": "une prison, une chaîne",
+    "portugais": "uma cadeia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "789": {
+    "index": 789,
+    "francais": "un groupe, une bande",
+    "portugais": "uma banda",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "790": {
+    "index": 790,
+    "francais": "la justice",
+    "portugais": "a justiça",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "791": {
+    "index": 791,
+    "francais": "qui ne bouge pas",
+    "portugais": "quieto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "792": {
+    "index": 792,
+    "francais": "le cou",
+    "portugais": "o pescoço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "793": {
+    "index": 793,
+    "francais": "image/-es (f)",
+    "portugais": "imagem/-ens (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "794": {
+    "index": 794,
+    "francais": "la mémoire, le souvenir",
+    "portugais": "a memória",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "795": {
+    "index": 795,
+    "francais": "le football",
+    "portugais": "o futebol",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "796": {
+    "index": 796,
+    "francais": "répondre",
+    "portugais": "responder",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "797": {
+    "index": 797,
+    "francais": "agréable",
+    "portugais": "agradável/-eis",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "798": {
+    "index": 798,
+    "francais": "Salut",
+    "portugais": "tchau",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "799": {
+    "index": 799,
+    "francais": "nerveux/-euse",
+    "portugais": "nervoso/a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "800": {
+    "index": 800,
+    "francais": "un taxi",
+    "portugais": "um táxi",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "801": {
+    "index": 801,
+    "francais": "la société",
+    "portugais": "a sociedade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "802": {
+    "index": 802,
+    "francais": "la chaleur",
+    "portugais": "o calor",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "803": {
+    "index": 803,
+    "francais": "la confiance",
+    "portugais": "a confiança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "804": {
+    "index": 804,
+    "francais": "un commandant",
+    "portugais": "um major",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "805": {
+    "index": 805,
+    "francais": "fiancé/-ée",
+    "portugais": "noivo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "806": {
+    "index": 806,
+    "francais": "une horloge, une montre",
+    "portugais": "um relógio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "807": {
+    "index": 807,
+    "francais": "un immeuble",
+    "portugais": "um edifício",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "808": {
+    "index": 808,
+    "francais": "un parc",
+    "portugais": "um parque",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "809": {
+    "index": 809,
+    "francais": "national/-ale",
+    "portugais": "nacional/-ale",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "810": {
+    "index": 810,
+    "francais": "ridicule",
+    "portugais": "ridículo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "811": {
+    "index": 811,
+    "francais": "lever, soulever",
+    "portugais": "levantar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "812": {
+    "index": 812,
+    "francais": "un cours",
+    "portugais": "uma aula",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "813": {
+    "index": 813,
+    "francais": "sapristi!",
+    "portugais": "caramba!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "814": {
+    "index": 814,
+    "francais": "gay",
+    "portugais": "gay",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "815": {
+    "index": 815,
+    "francais": "un autobus",
+    "portugais": "um autocarro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "816": {
+    "index": 816,
+    "francais": "devant, face à",
+    "portugais": "diante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "817": {
+    "index": 817,
+    "francais": "un chapeau",
+    "portugais": "um chapéu",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "818": {
+    "index": 818,
+    "francais": "investigation/-s (f)",
+    "portugais": "investigação/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "819": {
+    "index": 819,
+    "francais": "tomber",
+    "portugais": "calhar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "820": {
+    "index": 820,
+    "francais": "un procédé",
+    "portugais": "um processo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "821": {
+    "index": 821,
+    "francais": "immense, énormément",
+    "portugais": "imenso/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "822": {
+    "index": 822,
+    "francais": "sombre",
+    "portugais": "escuro/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "823": {
+    "index": 823,
+    "francais": "le poste, la station",
+    "portugais": "o posto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "824": {
+    "index": 824,
+    "francais": "l'entraîneur/-euse",
+    "portugais": "um treinador",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "825": {
+    "index": 825,
+    "francais": "le vol",
+    "portugais": "o voo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "826": {
+    "index": 826,
+    "francais": "plusieurs",
+    "portugais": "várias/-ios",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "827": {
+    "index": 827,
+    "francais": "un combat",
+    "portugais": "um combate",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "828": {
+    "index": 828,
+    "francais": "conduire",
+    "portugais": "conduzir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "829": {
+    "index": 829,
+    "francais": "crier",
+    "portugais": "gritar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "830": {
+    "index": 830,
+    "francais": "lancer, se cogner",
+    "portugais": "atirar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "831": {
+    "index": 831,
+    "francais": "intérieur/-ieure",
+    "portugais": "interior",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "832": {
+    "index": 832,
+    "francais": "se reposer",
+    "portugais": "descansar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "833": {
+    "index": 833,
+    "francais": "le lait",
+    "portugais": "o leite",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "834": {
+    "index": 834,
+    "francais": "assistant de bord",
+    "portugais": "assistente de bordo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "835": {
+    "index": 835,
+    "francais": "sympathique",
+    "portugais": "simpático/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "836": {
+    "index": 836,
+    "francais": "la pluie",
+    "portugais": "a chuva",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "837": {
+    "index": 837,
+    "francais": "un parapluie",
+    "portugais": "um guarda-chuva",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "838": {
+    "index": 838,
+    "francais": "fumer",
+    "portugais": "fumar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "839": {
+    "index": 839,
+    "francais": "vision/-s (f)",
+    "portugais": "visão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "840": {
+    "index": 840,
+    "francais": "politique",
+    "portugais": "político/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "841": {
+    "index": 841,
+    "francais": "une carte",
+    "portugais": "um mapa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "842": {
+    "index": 842,
+    "francais": "jouir",
+    "portugais": "gozar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "843": {
+    "index": 843,
+    "francais": "un marché",
+    "portugais": "um mercado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "844": {
+    "index": 844,
+    "francais": "un usage",
+    "portugais": "um uso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "845": {
+    "index": 845,
+    "francais": "un doigt",
+    "portugais": "um dedo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "846": {
+    "index": 846,
+    "francais": "malheureusement",
+    "portugais": "infelizmente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "847": {
+    "index": 847,
+    "francais": "un échange",
+    "portugais": "uma troca",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "848": {
+    "index": 848,
+    "francais": "innocent/-ente",
+    "portugais": "inocente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "849": {
+    "index": 849,
+    "francais": "militaire",
+    "portugais": "militaire",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "850": {
+    "index": 850,
+    "francais": "une voie",
+    "portugais": "uma via",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "851": {
+    "index": 851,
+    "francais": "un aspect, une mine",
+    "portugais": "um aspecto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "852": {
+    "index": 852,
+    "francais": "échapper",
+    "portugais": "escapar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "853": {
+    "index": 853,
+    "francais": "un appui, un soutien",
+    "portugais": "um apoio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "854": {
+    "index": 854,
+    "francais": "la fierté, l'orgueil",
+    "portugais": "o orgulho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "855": {
+    "index": 855,
+    "francais": "vérifier",
+    "portugais": "verificar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "856": {
+    "index": 856,
+    "francais": "un avis, un procès",
+    "portugais": "um julgamento",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "857": {
+    "index": 857,
+    "francais": "Ça dépend",
+    "portugais": "depende",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "858": {
+    "index": 858,
+    "francais": "respirer",
+    "portugais": "respirar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "859": {
+    "index": 859,
+    "francais": "une théorie",
+    "portugais": "uma teoria",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "860": {
+    "index": 860,
+    "francais": "large",
+    "portugais": "largo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "861": {
+    "index": 861,
+    "francais": "un laboratoire",
+    "portugais": "um laboratório",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "862": {
+    "index": 862,
+    "francais": "correct/-ecte",
+    "portugais": "correcto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "863": {
+    "index": 863,
+    "francais": "un changement",
+    "portugais": "uma mudança",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "864": {
+    "index": 864,
+    "francais": "une faculté",
+    "portugais": "uma faculdade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "865": {
+    "index": 865,
+    "francais": "un morceau",
+    "portugais": "um pedaço",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "866": {
+    "index": 866,
+    "francais": "une rose",
+    "portugais": "uma rosa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "867": {
+    "index": 867,
+    "francais": "salaud",
+    "portugais": "sacana",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "868": {
+    "index": 868,
+    "francais": "une bague",
+    "portugais": "anel/-éis (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "869": {
+    "index": 869,
+    "francais": "le/la patron/-onne",
+    "portugais": "o patrão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "870": {
+    "index": 870,
+    "francais": "une victime",
+    "portugais": "uma vítima",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "871": {
+    "index": 871,
+    "francais": "tomber enceinte",
+    "portugais": "ficar grávida",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "872": {
+    "index": 872,
+    "francais": "cependant",
+    "portugais": "entanto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "873": {
+    "index": 873,
+    "francais": "confusion",
+    "portugais": "confusão/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "874": {
+    "index": 874,
+    "francais": "un lac",
+    "portugais": "um lago",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "875": {
+    "index": 875,
+    "francais": "écrit/-ite",
+    "portugais": "escrito/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "876": {
+    "index": 876,
+    "francais": "la montagne",
+    "portugais": "a montanha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "877": {
+    "index": 877,
+    "francais": "un aéroport",
+    "portugais": "um aeroporto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "878": {
+    "index": 878,
+    "francais": "survivre",
+    "portugais": "sobreviver",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "879": {
+    "index": 879,
+    "francais": "danser",
+    "portugais": "balar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "880": {
+    "index": 880,
+    "francais": "une balle",
+    "portugais": "uma bala",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "881": {
+    "index": 881,
+    "francais": "sur le point de",
+    "portugais": "prestes",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "882": {
+    "index": 882,
+    "francais": "excepté",
+    "portugais": "excepto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "883": {
+    "index": 883,
+    "francais": "suspect/-ecte",
+    "portugais": "suspeito/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "884": {
+    "index": 884,
+    "francais": "une marque",
+    "portugais": "uma marca",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "885": {
+    "index": 885,
+    "francais": "le directeur",
+    "portugais": "o director",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "886": {
+    "index": 886,
+    "francais": "ancien/-ienne",
+    "portugais": "antigo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "887": {
+    "index": 887,
+    "francais": "un intérêt",
+    "portugais": "um interesse",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "888": {
+    "index": 888,
+    "francais": "bouger, toucher",
+    "portugais": "mexer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "889": {
+    "index": 889,
+    "francais": "une unité",
+    "portugais": "uma unidade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "890": {
+    "index": 890,
+    "francais": "matériel(s)/-ielle(s)",
+    "portugais": "material/-iais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "891": {
+    "index": 891,
+    "francais": "construire",
+    "portugais": "construir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "892": {
+    "index": 892,
+    "francais": "un téléphone",
+    "portugais": "um telemóvel",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "893": {
+    "index": 893,
+    "francais": "présenter",
+    "portugais": "apresentar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "894": {
+    "index": 894,
+    "francais": "une forêt",
+    "portugais": "uma floresta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "895": {
+    "index": 895,
+    "francais": "général/-ale(s)/-aux",
+    "portugais": "geral/-ais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "896": {
+    "index": 896,
+    "francais": "partenaire",
+    "portugais": "parceiro/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "897": {
+    "index": 897,
+    "francais": "un sac à main",
+    "portugais": "uma bolsa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "898": {
+    "index": 898,
+    "francais": "professionnel(s)/-elle(s)",
+    "portugais": "profissional/-ais (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "899": {
+    "index": 899,
+    "francais": "une maladie",
+    "portugais": "uma doença",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "900": {
+    "index": 900,
+    "francais": "croître",
+    "portugais": "crescer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "901": {
+    "index": 901,
+    "francais": "imbécile/-s",
+    "portugais": "imbecil/-cis (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "902": {
+    "index": 902,
+    "francais": "blessé/-ée",
+    "portugais": "ferido/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "903": {
+    "index": 903,
+    "francais": "rentrer, revenir",
+    "portugais": "regressar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "904": {
+    "index": 904,
+    "francais": "la neige",
+    "portugais": "a neve",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "905": {
+    "index": 905,
+    "francais": "le poid",
+    "portugais": "o peso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "906": {
+    "index": 906,
+    "francais": "un bal",
+    "portugais": "um baile",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "907": {
+    "index": 907,
+    "francais": "champion/-ionne",
+    "portugais": "campeão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "908": {
+    "index": 908,
+    "francais": "un oeuf",
+    "portugais": "um ovo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "909": {
+    "index": 909,
+    "francais": "une bouteille",
+    "portugais": "uma garrafa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "910": {
+    "index": 910,
+    "francais": "une vidéo",
+    "portugais": "um vídeo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "911": {
+    "index": 911,
+    "francais": "la presse",
+    "portugais": "a imprensa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "912": {
+    "index": 912,
+    "francais": "à quel point",
+    "portugais": "quão",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "913": {
+    "index": 913,
+    "francais": "attaquer",
+    "portugais": "atacar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "914": {
+    "index": 914,
+    "francais": "abandonner",
+    "portugais": "desistir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "915": {
+    "index": 915,
+    "francais": "un village",
+    "portugais": "uma aldeia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "916": {
+    "index": 916,
+    "francais": "livrer, distribuer",
+    "portugais": "entregar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "917": {
+    "index": 917,
+    "francais": "un accès",
+    "portugais": "um acesso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "918": {
+    "index": 918,
+    "francais": "décider",
+    "portugais": "decidir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "919": {
+    "index": 919,
+    "francais": "un homocide",
+    "portugais": "um homicídio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "920": {
+    "index": 920,
+    "francais": "un instant",
+    "portugais": "um instante",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "921": {
+    "index": 921,
+    "francais": "évidemment",
+    "portugais": "obviamente",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "922": {
+    "index": 922,
+    "francais": "le résultat",
+    "portugais": "o resultado",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "923": {
+    "index": 923,
+    "francais": "un jardin",
+    "portugais": "um jardim",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "924": {
+    "index": 924,
+    "francais": "un désert",
+    "portugais": "um deserto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "925": {
+    "index": 925,
+    "francais": "désert/-erte",
+    "portugais": "deserto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "926": {
+    "index": 926,
+    "francais": "mauvais/-aise",
+    "portugais": "ruim/-uins (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "927": {
+    "index": 927,
+    "francais": "un fantôme",
+    "portugais": "um fantasma",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "928": {
+    "index": 928,
+    "francais": "étudier",
+    "portugais": "estudar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "929": {
+    "index": 929,
+    "francais": "une offre",
+    "portugais": "uma oferta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "930": {
+    "index": 930,
+    "francais": "une note, un billet",
+    "portugais": "uma nota",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "931": {
+    "index": 931,
+    "francais": "un contrat",
+    "portugais": "um contrato",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "932": {
+    "index": 932,
+    "francais": "une tempête",
+    "portugais": "uma tempestade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "933": {
+    "index": 933,
+    "francais": "un foyer",
+    "portugais": "um lar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "934": {
+    "index": 934,
+    "francais": "un cabinet",
+    "portugais": "um gabinete",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "935": {
+    "index": 935,
+    "francais": "une(e) collègue, pote",
+    "portugais": "um(a) colega",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "936": {
+    "index": 936,
+    "francais": "durer, tarder",
+    "portugais": "demorar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "937": {
+    "index": 937,
+    "francais": "gaz (m)",
+    "portugais": "gás/-azes (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "938": {
+    "index": 938,
+    "francais": "remercier",
+    "portugais": "agradecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "939": {
+    "index": 939,
+    "francais": "une date",
+    "portugais": "uma data",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "940": {
+    "index": 940,
+    "francais": "envoyer",
+    "portugais": "enviar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "941": {
+    "index": 941,
+    "francais": "un billet, un ticket",
+    "portugais": "um bilhete",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "942": {
+    "index": 942,
+    "francais": "un royaume",
+    "portugais": "um reino",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "943": {
+    "index": 943,
+    "francais": "une propriété",
+    "portugais": "uma propriedade",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "944": {
+    "index": 944,
+    "francais": "ministre (mf)",
+    "portugais": "ministro (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "945": {
+    "index": 945,
+    "francais": "une crainte",
+    "portugais": "um receio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "946": {
+    "index": 946,
+    "francais": "croire",
+    "portugais": "crer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "947": {
+    "index": 947,
+    "francais": "voyager",
+    "portugais": "viajar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "948": {
+    "index": 948,
+    "francais": "récupérer",
+    "portugais": "recuperar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "949": {
+    "index": 949,
+    "francais": "miel",
+    "portugais": "mel",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "950": {
+    "index": 950,
+    "francais": "un témoin",
+    "portugais": "uma testemunha",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "951": {
+    "index": 951,
+    "francais": "un témoignage",
+    "portugais": "um testemunho",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "952": {
+    "index": 952,
+    "francais": "pain/-s (m)",
+    "portugais": "pão/-ães (m)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "953": {
+    "index": 953,
+    "francais": "Europe",
+    "portugais": "Europa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "954": {
+    "index": 954,
+    "francais": "la poitrine",
+    "portugais": "o peito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "955": {
+    "index": 955,
+    "francais": "sensation/-s (f)",
+    "portugais": "sensação/-ões (f)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "956": {
+    "index": 956,
+    "francais": "puissant/-ante",
+    "portugais": "poderoso/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "957": {
+    "index": 957,
+    "francais": "abondant/-ante, à bout",
+    "portugais": "farto/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "958": {
+    "index": 958,
+    "francais": "la magie",
+    "portugais": "a magia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "959": {
+    "index": 959,
+    "francais": "une bande de copains",
+    "portugais": "uma malta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "960": {
+    "index": 960,
+    "francais": "la victoire",
+    "portugais": "a vitória",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "961": {
+    "index": 961,
+    "francais": "un assassinat",
+    "portugais": "um assassinato",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "962": {
+    "index": 962,
+    "francais": "masse, pâte",
+    "portugais": "massa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "963": {
+    "index": 963,
+    "francais": "fâché/-ée",
+    "portugais": "bravo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "964": {
+    "index": 964,
+    "francais": "bravo!",
+    "portugais": "bravo!",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "965": {
+    "index": 965,
+    "francais": "prendre quelqu'un en stop",
+    "portugais": "dar boleia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "966": {
+    "index": 966,
+    "francais": "faire de l'auto-stop",
+    "portugais": "andar à boleia",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "967": {
+    "index": 967,
+    "francais": "un effet",
+    "portugais": "um efeito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "968": {
+    "index": 968,
+    "francais": "en effet",
+    "portugais": "com efeito",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "969": {
+    "index": 969,
+    "francais": "un théâtre",
+    "portugais": "um teatro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "970": {
+    "index": 970,
+    "francais": "supporter, endurer",
+    "portugais": "aguentar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "971": {
+    "index": 971,
+    "francais": "agir",
+    "portugais": "agir",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "972": {
+    "index": 972,
+    "francais": "un chocolat",
+    "portugais": "um chocolate",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "973": {
+    "index": 973,
+    "francais": "célèbre, fameux/-euse",
+    "portugais": "famoso/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "974": {
+    "index": 974,
+    "francais": "une chemise",
+    "portugais": "uma camisa",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "975": {
+    "index": 975,
+    "francais": "gros/-osse, gras/-asse",
+    "portugais": "gordo/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "976": {
+    "index": 976,
+    "francais": "patient/-iente",
+    "portugais": "paciente (mf)",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "977": {
+    "index": 977,
+    "francais": "un pilote",
+    "portugais": "um piloto",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "978": {
+    "index": 978,
+    "francais": "enseigner",
+    "portugais": "ensinar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "979": {
+    "index": 979,
+    "francais": "un ange",
+    "portugais": "um anjo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "980": {
+    "index": 980,
+    "francais": "la présence",
+    "portugais": "a presença",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "981": {
+    "index": 981,
+    "francais": "la science",
+    "portugais": "a ciência",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "982": {
+    "index": 982,
+    "francais": "une fontaine",
+    "portugais": "uma fonte",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "983": {
+    "index": 983,
+    "francais": "remporter, vaincre",
+    "portugais": "vencer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "984": {
+    "index": 984,
+    "francais": "appartenir",
+    "portugais": "pertencer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "985": {
+    "index": 985,
+    "francais": "amoureux/-euse, passioné/-ée",
+    "portugais": "apaixonado/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "986": {
+    "index": 986,
+    "francais": "une menace",
+    "portugais": "uma ameaça",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "987": {
+    "index": 987,
+    "francais": "un réseau, un filet",
+    "portugais": "uma rede",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "988": {
+    "index": 988,
+    "francais": "un avis",
+    "portugais": "um aviso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "989": {
+    "index": 989,
+    "francais": "menteur/-euse",
+    "portugais": "mentiroso/-a",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "990": {
+    "index": 990,
+    "francais": "un commencement, un principe",
+    "portugais": "um princípio",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "991": {
+    "index": 991,
+    "francais": "une tour",
+    "portugais": "uma torre",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "992": {
+    "index": 992,
+    "francais": "une cigarette",
+    "portugais": "um cigarro",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "993": {
+    "index": 993,
+    "francais": "coûter",
+    "portugais": "custar",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "994": {
+    "index": 994,
+    "francais": "un cours, une formation",
+    "portugais": "um curso",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "995": {
+    "index": 995,
+    "francais": "se promener",
+    "portugais": "passear-se",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "996": {
+    "index": 996,
+    "francais": "mériter",
+    "portugais": "merecer",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "997": {
+    "index": 997,
+    "francais": "un siècle",
+    "portugais": "um século",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "998": {
+    "index": 998,
+    "francais": "un sommet",
+    "portugais": "um topo",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "999": {
+    "index": 999,
+    "francais": "une ferme",
+    "portugais": "uma quinta",
+    "quiz1" : 0,
+    "quiz2" : 0
+  },
+  "1000": {
+    "index": 1000,
+    "francais": "definitivamente",
+    "portugais": "définitivement",
+    "quiz1" : 0,
+    "quiz2" : 0
+  }
+}

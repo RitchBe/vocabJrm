@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>943655019235-crim8q8o1e38nsf472dmcdsekukidb8c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.943655019235-crim8q8o1e38nsf472dmcdsekukidb8c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>943655019235-vo516j6n7e3lu90h3qimndvsracdpdgj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLKWcUUyoFPgFlLNUYCZ_7rvjSW4aOA9Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>943655019235</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vocab</string>
+	<key>PROJECT_ID</key>
+	<string>vocab-3fdd5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vocab-3fdd5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:943655019235:ios:405431713606329c395bd6</string>
+	<key>DATABASE_URL</key>
+	<string>https://vocab-3fdd5.firebaseio.com</string>
+</dict>
+</plist>

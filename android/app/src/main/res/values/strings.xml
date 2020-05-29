@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minilo</string>
+    <string name="facebook_app_id">467579973932566</string>
+
+
+    <string name="fb_login_protocol_scheme">fb467579973932566</string>
+     <string name="google_maps_key">AIzaSyCdtQax9LbofQth7RiYao6KB3ykykPK3n8</string>
+    </resources>
